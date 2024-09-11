@@ -5,6 +5,7 @@ Welcome to my GitHub! I am passionate about solving real-world problems through 
 ML & AI Development: Predictive analytics, anomaly detection, and model deployment.
 Computer Vision: Image classification, object detection, and image segmentation.
 NLP & LLMs: Chatbot development, text analysis, and conversational AI.
+
 🔧 Skills & Tools:
 Languages: Python, Java, C++
 Machine Learning: Scikit-learn, RAPIDS, NumPy, Pandas
@@ -12,10 +13,12 @@ Deep Learning: TensorFlow, PyTorch, Keras, HuggingFace Transformers
 Computer Vision: OpenCV, FastAI, YOLO, Image Processing
 NLP: SpaCy, NLTK, Gensim, OpenAI, Rasa
 Others: Docker, FastAPI, AWS SageMaker, Git
+
 🧠 Projects:
 Object Detection System: Leveraging YOLO and OpenCV for high-performance detection.
 Sentiment Analysis Engine: Using LLMs for real-time text classification and analysis.
 Time-Series Forecasting: Building accurate models for predicting future trends.
+
 🔗 Check Out My Work:
 Explore my projects on GitHub or connect with me for exciting collaborations!
 
